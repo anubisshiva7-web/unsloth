@@ -13,7 +13,8 @@ Unsloth is the first desktop app to run and train models.
   <a href="#-features">Features</a> •
   <a href="#-get-started">Quickstart</a> •
   <a href="#-free-notebooks">Notebooks</a> •
-  <a href="https://unsloth.ai/docs">Documentation</a>
+  <a href="https://unsloth.ai/docs">Documentation</a> •
+  <a href="./README.pl.md">Polski</a>
 </p>
 
 <p align="center">
